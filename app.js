@@ -8,9 +8,10 @@ app.set('views', path.join(__dirname, 'views'));
 
 // Dados a serem passados para o template
 const data = {
-  pageTitle: 'Exemplo Pug Dinâmico com Express e Bootstrap',
-  pageDescription: 'Esta é uma página de exemplo usando Pug com Express para valores dinâmicos e Bootstrap para layout responsivo.',
-  items: ['Item 1', 'Item 2', 'Item 3']
+  pageTitle: 'AAAAAAAA desespero e ansiedade, mom i want to go home!',
+  pageDescription: 'Não sei o que estou fazendo, não sabia e provavelmente não saberei futuramente também, obg :).',
+  items: ['tefi 1', 'tefi 2', 'tefi 3'],
+  observacao: 'eeeee!'
 };
 
 // Rota para renderizar o template com os dados
